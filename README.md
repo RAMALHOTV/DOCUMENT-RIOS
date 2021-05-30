@@ -5,52 +5,63 @@
 http://distv.
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fc6b8a56e3fd60bd26a6377a4f700db4.png" group-title="Brazil",BR: ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8890
-#EXTINF:-1 tvg-id="" tvg-name="BR ANIMAL PLANET FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273381
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery H&H FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/35d7ee941b53c4f9c2960522b9576053.png" group-title="Brazil",BR: Discovery H&H FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8904
-#EXTINF:-1 tvg-id="" tvg-name="BR Discovery H&H FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery H&H FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273730
+################################################################### Documentários
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Science FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/41874f43f68dd9d227706e4272cc8494.png" group-title="Brazil",BR: Discovery Science FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8910
-#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Science HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery Science HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273731
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Theater FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/eccdb9fd544de19f5a47da8c16b7fd94.png" group-title="Brazil",BR: Discovery Theater FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8892
-#EXTINF:-1 tvg-id="" tvg-name="BR Discovery THEATER FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery THEATER FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273725
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Turbo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f4ada104772fecc970f160730ac56e3e.png" group-title="Brazil",BR: Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8891
-#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Turbo FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273724
-#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery World Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/10b90e0ce95b100cf9a6fbff0208bf4a.png" group-title="Brazil",BR: Discovery World Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8894
-#EXTINF:-1 tvg-id="" tvg-name="BR Discovery WORLD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery WORLD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273727
-#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/50a6bc80d5e23b687df1568a1e850667.png" group-title="Brazil",BR: Disney Channel
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8895
-#EXTINF:-1 tvg-id="" tvg-name="BR Disney Channel FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Disney Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274547
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1
+http://cdn-1.nxplay.com.br/ARTE1_NX/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: History 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/8a357a5ab6db772ce2e87f2dbb5256f7.png" group-title="Brazil",BR: History 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14516
-#EXTINF:-1 tvg-id="" tvg-name="BR History 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR History 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274216
-#EXTINF:-1 tvg-id="" tvg-name="BR: History Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/77158ed2afb6b36f6b2391f9c81e58e9.png" group-title="Brazil",BR: History Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8901
-#EXTINF:-1 tvg-id="" tvg-name="BR History Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR History Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274210
-#EXTINF:-1 tvg-id="" tvg-name="BR: Investigation Discovery HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/bc5c44c1809c5a734c7c501031cf5a61.png" group-title="Brazil",BR: Investigation Discovery HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14529
-#EXTINF:-1 tvg-id="" tvg-name="BR Investigation Discovery HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Investigation Discovery HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273757
-#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR NAT GEO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274121
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1 HD
+http://cdn-1.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO Wild FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2ffcbd5676076e9ba265226e0d30b4ec.png" group-title="Brazil",BR: NAT GEO Wild FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8905
-#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO WILD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274113
+#EXTINF:-1 tvg-id="TRU TV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Documentários",TruTV
+
+#EXTINF:-1 tvg-id="CURTA" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Documentários",Curta!
+http://212.224.98.208:2200/BR/Curta_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="Documentários",Lifetime
+http://212.224.98.208:2200/BR/Lifetime_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="STAR LIFE" tvg-logo="http://i.imgur.com/xgAalG7.png" group-title="Documentários",Star Life
+http://212.224.98.208:2200/BR/Fox_Life_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Documentários",A&E
+http://212.224.98.208:2200/BR/AE_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Documentários",TLC
+http://212.224.98.208:2200/BR/TLC_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="E!" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Documentários",E!
+http://212.224.98.208:2200/BR/E_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentários",Animal Planet
+http://212.224.98.208:2200/BR/Animal_Planet_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",National Geographic
+http://212.224.98.208:2200/BR/Nat_Geo_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild
+http://212.224.98.208:2200/BR/NatGeo_Wild_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History
+http://212.224.98.208:2200/BR/The_History_Channel_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="http://i.imgur.com/4P92vil.png" group-title="Documentários",History 2
+http://212.224.98.208:2200/BR/History_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="Documentários",Discovery Channel
+http://212.224.98.208:2200/BR/Discovery_Channel_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentários",Discovery Turbo
+http://212.224.98.208:2200/BR/Discovery_Turbo_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentários",Investigação Discovery
+http://212.224.98.208:2200/BR/ID_-_Investi_Discovery_HD/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentários",Discovery Home & Health
+http://212.224.98.208:2200/BR/Disc-_Home_Health_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentários",Discovery Science
+http://212.224.98.208:2200/BR/Discovery_Science_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentários",Discovery World
+http://212.224.98.208:2200/BR/Discovery_World_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
