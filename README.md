@@ -4,7 +4,10 @@
 #EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -CANAIS DE  DOCUMENTÁRIOS[/B][/COLOR]
 http://distv.
 
-
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/MDCrb9a.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143106
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/MDCrb9a.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143107
 ##EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/lGK7ayp.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Channel HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/144848
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://i.imgur.com/lGK7ayp.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Channel SD
