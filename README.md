@@ -4,54 +4,52 @@
 #EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -CANAIS DE  DOCUMENTÁRIOS[/B][/COLOR]
 http://distv.
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/MDCrb9a.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143106
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/MDCrb9a.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143107
-##EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/lGK7ayp.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/144848
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://i.imgur.com/lGK7ayp.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Channel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143109
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/OX5qbNv.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143110
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="https://i.imgur.com/OX5qbNv.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Home & Health SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/150991
+##################################################### Documentários
 
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/NLmflJs.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Science HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143114
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://i.imgur.com/NLmflJs.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Science SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143115
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://i.imgur.com/ENRc2DG.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Theater HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143116
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://i.imgur.com/ENRc2DG.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Theater SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143117
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD" tvg-logo="https://i.imgur.com/DAIaHbX.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143118
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://i.imgur.com/DAIaHbX.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143119
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/bb3cUiq.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery World HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143120
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD" tvg-logo="https://i.imgur.com/bb3cUiq.png" group-title="CANAIS | DOCUMENTÁRIOS",Discovery World SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143121
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1
+http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/ma053gw.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143124
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/ma053gw.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143125
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel HD" tvg-logo="https://i.imgur.com/T5YhivM.png" group-title="CANAIS | DOCUMENTÁRIOS",History Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143126
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History channel SD" tvg-logo="https://i.imgur.com/T5YhivM.png" group-title="CANAIS | DOCUMENTÁRIOS",History channel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143127
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Discovery HD" tvg-logo="https://i.imgur.com/Xn7rT9p.png" group-title="CANAIS | DOCUMENTÁRIOS",ID Discovery HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143112
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Discovery SD" tvg-logo="https://i.imgur.com/Xn7rT9p.png" group-title="CANAIS | DOCUMENTÁRIOS",ID Discovery SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143113
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1 HD
+http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild HD" tvg-logo="https://i.imgur.com/casObE4.png" group-title="CANAIS | DOCUMENTÁRIOS",NatGeo Wild HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143131
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo WILD SD" tvg-logo="https://i.imgur.com/casObE4.png" group-title="CANAIS | DOCUMENTÁRIOS",NatGeo WILD SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143128
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/9UBz08A.png" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143129
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="https://i.imgur.com/9UBz08A.png" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/144854
+#EXTINF:-1 tvg-id="TRU TV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Documentários",TruTV
+
+#EXTINF:-1 tvg-id="CURTA" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Documentários",Curta!
+http://200.4.96.35:8001/play/a0du?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="Documentários",Lifetime
+
+#EXTINF:-1 tvg-id="STAR LIFE" tvg-logo="http://i.imgur.com/xgAalG7.png" group-title="Documentários",Star Life
+http://200.4.96.35:8001/play/a0f6?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Documentários",TLC
+
+#EXTINF:-1 tvg-id="E!" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Documentários",E!
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentários",Animal Planet
+http://200.4.96.35:8001/play/a0fe?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",National Geographic
+http://200.4.96.35:8001/play/a0f2?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild
+http://200.4.96.35:8001/play/a0f3?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History
+
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="http://i.imgur.com/4P92vil.png" group-title="Documentários",History 2
+http://200.4.96.35:8001/play/a0e8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="Documentários",Discovery Channel
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentários",Discovery Turbo
+http://200.4.96.35:8001/play/a0eo?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentários",Investigação Discovery
+
+#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentários",Discovery Home & Health
+http://200.4.96.35:8001/play/a0en?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentários",Discovery Science
+http://200.4.96.35:8001/play/a0ds?PEDROJUNIORTUTORIAIS
+
